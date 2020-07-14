@@ -1,0 +1,107 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20200407)
+Annotation Version and Release Date:	GO Ontology database DOI:  10.5281/zenodo.3873405 Released 2020-06-01
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+GO biological process complete	Homo sapiens - REFLIST (20851)	upload_1 (43)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+IRE1-mediated unfolded protein response (GO:0036498)	55	36	.11	+	 > 100	1.05E-81	3.34E-78
+sequestering of calcium ion (GO:0051208)	4	2	.01	+	 > 100	6.17E-05	1.70E-02
+regulation of ATF6-mediated unfolded protein response (GO:1903891)	4	2	.01	+	 > 100	6.17E-05	1.67E-02
+ATF6-mediated unfolded protein response (GO:0036500)	9	4	.02	+	 > 100	1.10E-08	7.61E-06
+protein folding in endoplasmic reticulum (GO:0034975)	10	4	.02	+	 > 100	1.53E-08	1.02E-05
+endoplasmic reticulum unfolded protein response (GO:0030968)	104	41	.21	+	 > 100	5.50E-89	8.78E-85
+integrated stress response signaling (GO:0140467)	12	4	.02	+	 > 100	2.78E-08	1.71E-05
+PERK-mediated unfolded protein response (GO:0036499)	12	4	.02	+	 > 100	2.78E-08	1.64E-05
+cellular response to unfolded protein (GO:0034620)	128	41	.26	+	 > 100	7.78E-86	6.21E-82
+cellular response to topologically incorrect protein (GO:0035967)	147	41	.30	+	 > 100	1.09E-83	5.82E-80
+ER overload response (GO:0006983)	12	3	.02	+	 > 100	3.63E-06	1.81E-03
+positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress (GO:1990440)	12	3	.02	+	 > 100	3.63E-06	1.76E-03
+response to unfolded protein (GO:0006986)	165	41	.34	+	 > 100	7.23E-82	2.88E-78
+protein maturation by protein folding (GO:0022417)	9	2	.02	+	 > 100	2.25E-04	4.13E-02
+response to topologically incorrect protein (GO:0035966)	186	41	.38	+	 > 100	5.89E-80	1.57E-76
+regulation of translational initiation in response to stress (GO:0043558)	10	2	.02	+	96.98	2.69E-04	4.68E-02
+ER-nucleus signaling pathway (GO:0006984)	38	7	.08	+	89.32	4.01E-12	3.37E-09
+response to endoplasmic reticulum stress (GO:0034976)	256	41	.53	+	77.66	9.26E-75	2.11E-71
+regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway (GO:1902235)	33	3	.07	+	44.08	5.53E-05	1.67E-02
+positive regulation of transcription from RNA polymerase II promoter in response to stress (GO:0036003)	33	3	.07	+	44.08	5.53E-05	1.63E-02
+negative regulation of response to endoplasmic reticulum stress (GO:1903573)	47	4	.10	+	41.27	3.62E-06	1.87E-03
+regulation of response to endoplasmic reticulum stress (GO:1905897)	89	6	.18	+	32.69	4.01E-08	2.29E-05
+ubiquitin-dependent ERAD pathway (GO:0030433)	73	4	.15	+	26.57	1.89E-05	7.00E-03
+positive regulation of neuron apoptotic process (GO:0043525)	58	3	.12	+	25.08	2.69E-04	4.72E-02
+ERAD pathway (GO:0036503)	89	4	.18	+	21.79	3.97E-05	1.29E-02
+maintenance of location in cell (GO:0051651)	95	4	.20	+	20.42	5.08E-05	1.56E-02
+protein folding (GO:0006457)	226	8	.47	+	17.16	2.27E-08	1.45E-05
+endoplasmic reticulum to Golgi vesicle-mediated transport (GO:0006888)	197	6	.41	+	14.77	3.53E-06	1.88E-03
+regulation of neuron apoptotic process (GO:0043523)	214	6	.44	+	13.60	5.61E-06	2.35E-03
+cellular response to inorganic substance (GO:0071241)	224	6	.46	+	12.99	7.23E-06	2.96E-03
+cellular response to metal ion (GO:0071248)	196	5	.40	+	12.37	5.61E-05	1.63E-02
+negative regulation of neuron death (GO:1901215)	214	5	.44	+	11.33	8.41E-05	2.00E-02
+cellular response to stress (GO:0033554)	1761	41	3.63	+	11.29	1.16E-41	2.31E-38
+regulation of neuron death (GO:1901214)	321	7	.66	+	10.57	4.37E-06	1.99E-03
+proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	325	6	.67	+	8.95	5.62E-05	1.60E-02
+cellular response to organic substance (GO:0071310)	2378	42	4.90	+	8.56	1.33E-38	2.36E-35
+proteasomal protein catabolic process (GO:0010498)	348	6	.72	+	8.36	8.14E-05	2.00E-02
+response to metal ion (GO:0010038)	374	6	.77	+	7.78	1.20E-04	2.59E-02
+Golgi vesicle transport (GO:0048193)	398	6	.82	+	7.31	1.68E-04	3.34E-02
+cellular response to organic cyclic compound (GO:0071407)	545	8	1.12	+	7.12	1.47E-05	5.58E-03
+cellular response to chemical stimulus (GO:0070887)	2941	42	6.07	+	6.92	9.03E-35	1.44E-31
+response to organic substance (GO:0010033)	3040	42	6.27	+	6.70	3.57E-34	5.18E-31
+proteolysis involved in cellular protein catabolic process (GO:0051603)	596	8	1.23	+	6.51	2.76E-05	9.38E-03
+ubiquitin-dependent protein catabolic process (GO:0006511)	533	7	1.10	+	6.37	1.06E-04	2.39E-02
+modification-dependent protein catabolic process (GO:0019941)	540	7	1.11	+	6.29	1.15E-04	2.56E-02
+response to inorganic substance (GO:0010035)	546	7	1.13	+	6.22	1.23E-04	2.63E-02
+cellular protein catabolic process (GO:0044257)	628	8	1.30	+	6.18	3.99E-05	1.27E-02
+modification-dependent macromolecule catabolic process (GO:0043632)	551	7	1.14	+	6.16	1.31E-04	2.67E-02
+negative regulation of cell cycle (GO:0045786)	574	7	1.18	+	5.91	1.67E-04	3.38E-02
+protein catabolic process (GO:0030163)	683	8	1.41	+	5.68	7.15E-05	1.81E-02
+cellular response to organonitrogen compound (GO:0071417)	604	7	1.25	+	5.62	2.28E-04	4.09E-02
+response to stress (GO:0006950)	3654	42	7.54	+	5.57	7.45E-31	9.91E-28
+negative regulation of cell death (GO:0060548)	1016	11	2.10	+	5.25	5.17E-06	2.23E-03
+regulation of cellular response to stress (GO:0080135)	744	8	1.53	+	5.21	1.29E-04	2.67E-02
+negative regulation of apoptotic process (GO:0043066)	906	9	1.87	+	4.82	8.38E-05	2.03E-02
+cellular homeostasis (GO:0019725)	915	9	1.89	+	4.77	9.03E-05	2.12E-02
+negative regulation of programmed cell death (GO:0043069)	923	9	1.90	+	4.73	9.65E-05	2.23E-02
+response to chemical (GO:0042221)	4423	42	9.12	+	4.60	2.08E-27	2.55E-24
+response to organonitrogen compound (GO:0010243)	1011	9	2.08	+	4.32	1.91E-04	3.67E-02
+signal transduction (GO:0007165)	4950	42	10.21	+	4.11	2.23E-25	2.54E-22
+cellular response to endogenous stimulus (GO:0071495)	1187	10	2.45	+	4.09	1.24E-04	2.60E-02
+cellular response to oxygen-containing compound (GO:1901701)	1073	9	2.21	+	4.07	2.97E-04	5.09E-02
+organonitrogen compound catabolic process (GO:1901565)	1073	9	2.21	+	4.07	2.97E-04	5.04E-02
+regulation of apoptotic process (GO:0042981)	1557	13	3.21	+	4.05	1.00E-05	3.99E-03
+regulation of programmed cell death (GO:0043067)	1579	13	3.26	+	3.99	1.16E-05	4.53E-03
+regulation of cell death (GO:0010941)	1707	14	3.52	+	3.98	5.00E-06	2.22E-03
+signaling (GO:0023052)	5322	42	10.98	+	3.83	4.51E-24	4.80E-21
+cell communication (GO:0007154)	5413	42	11.16	+	3.76	9.12E-24	9.10E-21
+establishment of protein localization (GO:0045184)	1606	12	3.31	+	3.62	7.12E-05	1.86E-02
+protein transport (GO:0015031)	1521	11	3.14	+	3.51	2.04E-04	3.84E-02
+intracellular transport (GO:0046907)	1540	11	3.18	+	3.46	2.28E-04	4.13E-02
+peptide transport (GO:0015833)	1553	11	3.20	+	3.43	2.45E-04	4.34E-02
+amide transport (GO:0042886)	1588	11	3.27	+	3.36	2.97E-04	4.99E-02
+regulation of protein modification process (GO:0031399)	1877	13	3.87	+	3.36	7.13E-05	1.84E-02
+positive regulation of macromolecule biosynthetic process (GO:0010557)	1972	13	4.07	+	3.20	1.18E-04	2.58E-02
+cellular response to stimulus (GO:0051716)	6610	42	13.63	+	3.08	3.61E-20	3.39E-17
+positive regulation of biosynthetic process (GO:0009891)	2099	13	4.33	+	3.00	2.21E-04	4.09E-02
+regulation of cellular protein metabolic process (GO:0032268)	2672	16	5.51	+	2.90	4.60E-05	1.44E-02
+positive regulation of gene expression (GO:0010628)	2363	14	4.87	+	2.87	1.86E-04	3.66E-02
+establishment of localization in cell (GO:0051649)	2374	14	4.90	+	2.86	1.95E-04	3.71E-02
+cellular protein modification process (GO:0006464)	3176	18	6.55	+	2.75	2.54E-05	9.01E-03
+protein modification process (GO:0036211)	3176	18	6.55	+	2.75	2.54E-05	8.82E-03
+regulation of protein metabolic process (GO:0051246)	2851	16	5.88	+	2.72	1.01E-04	2.31E-02
+macromolecule modification (GO:0043412)	3398	18	7.01	+	2.57	6.38E-05	1.70E-02
+cellular protein metabolic process (GO:0044267)	3807	20	7.85	+	2.55	2.12E-05	7.71E-03
+protein metabolic process (GO:0019538)	4396	23	9.07	+	2.54	3.13E-06	1.72E-03
+response to stimulus (GO:0050896)	8523	42	17.58	+	2.39	1.32E-15	1.17E-12
+negative regulation of cellular process (GO:0048523)	4873	22	10.05	+	2.19	8.11E-05	2.02E-02
+cellular macromolecule metabolic process (GO:0044260)	5183	23	10.69	+	2.15	5.93E-05	1.66E-02
+organonitrogen compound metabolic process (GO:1901564)	5421	24	11.18	+	2.15	3.52E-05	1.17E-02
+macromolecule metabolic process (GO:0043170)	6354	25	13.10	+	1.91	1.88E-04	3.67E-02
+regulation of cellular process (GO:0050794)	11160	42	23.01	+	1.82	8.98E-11	7.17E-08
+regulation of biological process (GO:0050789)	11714	42	24.16	+	1.74	7.35E-10	5.33E-07
+biological regulation (GO:0065007)	12390	43	25.55	+	1.68	2.87E-10	2.18E-07
+cellular process (GO:0009987)	15430	43	31.82	+	1.35	4.27E-06	2.00E-03
