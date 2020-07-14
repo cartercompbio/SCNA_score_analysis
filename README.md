@@ -3,11 +3,11 @@ Code to reproduce analysis and figures from Xian et al.
 
 ### Main Figures
 
-The code to reproduce all main figures and tables are in the data_preprocessing_main_figure.ipynb
+The code to reproduce all main figures and tables is in data_preprocessing_main_figure.ipynb
 
 ### Supplementary Figures
 
-The code to reproduce all supplementary figures and tables are in the data_processing_sup_fig.ipynb
+The code to reproduce all supplementary figures and tables is in data_processing_sup_fig.ipynb
 
 ### Others
 
@@ -16,5 +16,5 @@ The differential coexpression analysis is written in R, available in differentia
 
 ### Data
 
-All data available for reproducing the results are in the data folder.
-Note the expression file is too big, instead, I uploaded the uprDf which contains all TCGA samples with UPR genes and RIDD genes avaialble to reproduce the results.
+All data needed to reproduce the results are in the data folder.
+Note the expression file is too big. Instead, I uploaded the uprDf which contains the UPR genes and RIDD genes fir all TCGA samples required to reproduce the results.
