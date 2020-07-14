@@ -16,4 +16,5 @@ The differential coexpression analysis is written in R, available in differentia
 
 ### Data
 
-All data available for reproducing the results are in the data folder
+All data available for reproducing the results are in the data folder.
+Note the expression file is too big, instead, I uploaded the uprDf which contains all TCGA samples with UPR genes and RIDD genes avaialble to reproduce the results.
